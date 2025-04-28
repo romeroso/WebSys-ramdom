@@ -1,17 +1,16 @@
-{
-    "id": 1,
-    "name": "Jay Jay",
-    "email": "jmil@grc.com",
-    "phone": "+0-915-068-1652",
-    "address": {
-        "street": "132 Concep St",
-        "city": "Caloocan",
-        "state": "CA",
-        "zip": "12345"
+[
+    {
+        "id": 1,
+        "title": "Juan Tamad",
+        "author": "Kung sino-sino",
+        "genre": "Classic",
+        "available": true
     },
-    "company": {
-        "name": "Global GRC",
-        "position": "Analyst",
-        "department": "Development"
+    {
+         "id": 2,
+        "title": "Pagong at Matsing",
+        "author": "Itlog may buhok",
+        "genre": "Fiction",
+        "available": false
     }
-}
+]
