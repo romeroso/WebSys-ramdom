@@ -1,16 +1,16 @@
 {
     "id": 1,
-    "name": "Jaemyl",
-    "email": "jmilromeroso@gmail.com",
-    "phone": "+09150681652",
+    "name": "Jay Jay",
+    "email": "jmil@grc.com",
+    "phone": "+0-915-068-1652",
     "address": {
-        "street": "132 Gen.Concepcion St",
+        "street": "132 Concep St",
         "city": "Caloocan",
         "state": "CA",
         "zip": "12345"
     },
     "company": {
-        "name": "Caloocan",
+        "name": "Global GRC",
         "position": "Analyst",
         "department": "Development"
     }
